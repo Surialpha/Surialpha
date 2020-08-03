@@ -2,7 +2,7 @@
  
 
  <div> 
-  <h1 style="width:100%:text-align:center"> :angular: Hi! I'm a H1 tag </h1> 
+  <h1 style="width:100%;text-align: center;"> :angular: Hi! I'm a H1 tag </h1> 
  </div>
 
 
