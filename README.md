@@ -1,6 +1,9 @@
 ### Hi there 👋
  
- <h1> :angular: Hi! I'm a H1 tag </h1>
+
+ <div> 
+  <h1 style="width:100%:text-align:center"> :angular: Hi! I'm a H1 tag </h1> 
+ </div>
 
 
 
