@@ -23,6 +23,6 @@ const surialpha = {
 }
 ```
 
-<img src="https://media.giphy.com/media/7xghjugSqnFKg/giphy.gif" width="60"> <em><b>I love learn with different people</b> so if you want correct or teach me somthing <b>I'll be happy to take any advise!</b> :)</em>
+<img src="https://media.giphy.com/media/7xghjugSqnFKg/giphy.gif" width="60"> <em><b>I love to learn new things</b> so if you want to correct or teach me somthing <b>I'll be happy to take any advice!</b> :)</em>
 
 ---
