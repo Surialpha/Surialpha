@@ -13,6 +13,7 @@
 ```javascript
 const surialpha = {
   pronouns: "he" | "him",
+  coord: [6.2442876,-75.616231],
   code: [Javascript, Typescript, HTML, CSS, PHP, Java, C# ],
   tools: [Angular, Node, Express, MongoDB, SQL, Firebase, Github],
   techCommunities: {
