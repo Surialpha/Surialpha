@@ -23,6 +23,6 @@ const surialpha = {
  }
 }
 ```
- <em><b>I love to learn new things</b> so if you want to correct or teach me somthing <b>I'll be happy to take any advice!</b> :)</em>
+ <em><b>I love to learn new things,</b> so if you want to correct or teach me somthing <b>I'll be happy to take any advice!</b> :)</em>
 
 ---
