@@ -4,7 +4,7 @@
 </br>Developer at <a href="https://codigodinamico.com/">Código Dinámico</a> 
 </em></p>
 
-[![Linkedin: Sebastian](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-gomez-6b231a180/)](https://www.linkedin.com/in/sebastian-gomez-6b231a180/)
+[![Linkedin: Sebastian](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-g%C3%B3mez-palacios-6b231a180/)](https://www.linkedin.com/in/sebastian-g%C3%B3mez-palacios-6b231a180/)
 [![GitHub Surialpha](https://img.shields.io/github/followers/Surialpha?label=follow&style=social)](https://github.com/Surialpha)
 
 
