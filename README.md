@@ -7,7 +7,7 @@
 [![GitHub Surialpha](https://img.shields.io/github/followers/Surialpha?label=follow&style=social)](https://github.com/Surialpha)
 
 
-### <img src="https://media.giphy.com/media/JUBC36F4c0qY4WOjWU/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/JUBC36F4c0qY4WOjWU/giphy.gif" width="100"> A little more about me...  
 
 ```javascript
 const surialpha = {
