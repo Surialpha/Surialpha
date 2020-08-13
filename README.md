@@ -19,7 +19,7 @@ const surialpha = {
                         memberOf: [Angular_Medellín, React_Medellín, NodeCo, MedellínJS]
                       },
  studies: {
-     ReactNative: "I'm studying React-Native (30%), I hope develop that skill by next year!",
+     ReactNative: "I'm studying React-Native, I hope develop that skill by next year!",
  }
 }
 ```
