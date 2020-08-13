@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sebastian! <img src="./assets/mean-stack-2.png" width="80"></h2>
+<h2> Hi, I'm Sebastian! <img src="https://github.com/Surialpha/Surialpha/blob/master/assets/mean-stack-2.png" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300">
 <p><em>Software Develover at <a href="http://senasofia.com/">SENA</a>
 </br>Developer at <a href="https://codigodinamico.com/">Código Dinámico</a> 
