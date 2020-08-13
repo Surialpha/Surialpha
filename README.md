@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sebastian! <img src="https://media.giphy.com/media/huPRFJInE3OyvPoNsQ/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Sebastian! <img src="https://media.giphy.com/media/huPRFJInE3OyvPoNsQ/giphy.gif" width="50" style=" margin: -10px 0px 0px -180px;"></h2>
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 <p><em>Software Develover at <a href="http://senasofia.com/">SENA</a><img src="https://media.giphy.com/media/SXURM5jv7UfYWcke8k/giphy.gif" width="30"></br>Developer at <a href="https://codigodinamico.com/">Código Dinámico</a><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30"> 
 </em></p>
@@ -10,12 +10,12 @@
 ### <img src="https://media.giphy.com/media/JUBC36F4c0qY4WOjWU/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const surialpha = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP, Java, C# ],
   tools: [Angular, Node, Express, MongoDB, SQL, Firebase, Github],
   techCommunities: {
-                        memberOf: ["Angular Medellín","React Medellín","NodeCo","MedellínJS"]
+                        memberOf: [Angular_Medellín, React_Medellín, NodeCo, MedellínJS]
                       },
  studies: {
      ReactNative: "I'm studying React-Native (30%), I hope develop that skill by next year!",
