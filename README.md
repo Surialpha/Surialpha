@@ -1,7 +1,7 @@
 <h2> Hi, I'm Sebastian! <img src="https://github.com/Surialpha/Surialpha/blob/master/assets/mean-stack-2.png" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300">
 <p><em>Software Develover at <a href="http://senasofia.com/">SENA</a>
-</br><img align='right' src="https://github.com/Surialpha/Surialpha/blob/master/assets/Developer.png" width="300"> at <a href="https://codigodinamico.com/">Código Dinámico</a> 
+</br><img src="https://github.com/Surialpha/Surialpha/blob/master/assets/Developer.png" width="30"> at <a href="https://codigodinamico.com/">Código Dinámico</a> 
 </em></p>
 
 [![Linkedin: Sebastian](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surialpha/)](https://www.linkedin.com/in/surialpha/)
