@@ -13,15 +13,15 @@
 ```javascript
 const surialpha = {
   pronouns: "he" | "him",
-  coord: { 6.2442876,-75.616231 },
-  code: { Javascript, Typescript, HTML, CSS, PHP, Java, C# },
-  tools: { Angular, Node, Express, MongoDB, SQL, Firebase, Github },
-  techCommunities: {
+  coord: [ 6.2442876,-75.616231 ],
+  code: [ Javascript, Typescript, HTML, CSS, PHP, Java, C# ],
+  tools: [ Angular, Node, Express, MongoDB, SQL, Firebase, Github ],
+  techCommunities: [
          memberOf: { Angular_Medellín, React_Medellín, NodeCo, MedellínJS }
-  },
- studies: {
+  ],
+ studies: [
      ReactNative: "I'm studying React-Native, I hope develop that skill by next year!",
- }
+ ],
 }
 ```
  <em><b>I love to learn new things,</b> so if you want to correct or teach me something, <b>I'll be happy to take any advice!</b> :)</em>
