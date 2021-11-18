@@ -17,8 +17,8 @@ const surialpha = {
   code: [Javascript, Typescript, HTML, CSS, PHP, Java, C# ],
   tools: [Angular, Node, Express, MongoDB, SQL, Firebase, Github],
   techCommunities: {
-                        memberOf: [Angular_Medellín, React_Medellín, NodeCo, MedellínJS]
-                      },
+         memberOf: [Angular_Medellín, React_Medellín, NodeCo, MedellínJS]
+  },
  studies: {
      ReactNative: "I'm studying React-Native, I hope develop that skill by next year!",
  }
